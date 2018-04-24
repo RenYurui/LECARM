@@ -6,7 +6,9 @@
 
 Code for our paper "[LECARM: Low-Light Image Enhancement using Camera Response Model](https://ieeexplore.ieee.org/document/8340778/)"
 
-* run `run.m` of a demo
+* Our paper provides a low-light image enhancment algorithm obtaining the enhanced images by locally adjusting the exposure of input images using camera response model.
+
+* run `run.m` for a demo
 
 * Original code is tested on *Matlab 2016b* 64bit, Windows 10.
 
